@@ -1,6 +1,9 @@
 # VLC-channel-measurments
 Measurment platform for generating datasets of VLC environments based on Arduino
 
+![platform](https://user-images.githubusercontent.com/126675654/225743513-f78bfb18-31a9-4801-88cb-28e20b65a54c.jpg)
+
+
 Sensors
 -------
 Photodiode PDA100A2 - Si Switchable Gain Detector, 320 - 1100 nm, 11 MHz BW, 75.4 mm² (https://www.thorlabs.com/thorproduct.cfm?partnumber=PDA100A2)
