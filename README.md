@@ -6,13 +6,13 @@ Measurment platform for generating datasets of VLC environments based on Arduino
 
 Sensors
 -------
-Photodiode PDA100A2 - Si Switchable Gain Detector, 320 - 1100 nm, 11 MHz BW, 75.4 mm² (https://www.thorlabs.com/thorproduct.cfm?partnumber=PDA100A2)
+* Photodiode PDA100A2 - Si Switchable Gain Detector, 320 - 1100 nm, 11 MHz BW, 75.4 mm² (https://www.thorlabs.com/thorproduct.cfm?partnumber=PDA100A2)
 
-Distance sensor: HC-SR04 Ultrasonic Distance Sensor (https://www.mouser.es/datasheet/2/813/HCSR04-2307007.pdf)
+* Distance sensor: HC-SR04 Ultrasonic Distance Sensor (https://www.mouser.es/datasheet/2/813/HCSR04-2307007.pdf)
 
 * Other sensors such as the LIDAR TeraRanger Evo 15m sensors with a range up to 12 meters can be implemented (https://www.mouser.es/datasheet/2/944/Terabee_03122021_TR_EVO_15M-2090138.pdf)
 
-Ambient illumination sensor: BH1750 (https://www.mouser.com/datasheet/2/348/bh1750fvi-e-186247.pdf)
+* Ambient illumination sensor: BH1750 (https://www.mouser.com/datasheet/2/348/bh1750fvi-e-186247.pdf)
 
 Raw measurments (without signal processing)
 ---------------
