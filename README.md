@@ -31,6 +31,11 @@ tabla12_11052022.csv
 tabla13_11052022.csv
 tabla14_11052022.csv
 
+Fingerprinting 
+---------------
+Data for fingerprinting in 1D
+Data for fingerprinting in 2D
+
 Signal processing
 -----------------
 genDataSet.m
